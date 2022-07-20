@@ -2,3 +2,4 @@ Comando git
 
 Git commit -m ""
 git Push origin main
+git add .
